@@ -3,8 +3,9 @@ Electronics and Communication Engineering Student at ITU
 <br/>
 📫 [How to reach me](mailto:erdoganu19@itu.edu.tr)
 <br/>
-✨ I'm member and former-president of @ITUblockchain <br/>
-🔭 I’m currently working on @PeraFinance and developing crypto-gaming projects. <br/>
+✨ I'm board member and ex-president of @ITUblockchain, Turkey's first university blockchain society <br/>
+🔭 I’m currently working on @PeraFinance as smart contract developer and developing a web3 gaming project. <br/>
+🌱 I’m currently learning Golang. <br/>
 <!--
 **ulerdogan/ulerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
