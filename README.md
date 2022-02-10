@@ -9,7 +9,7 @@ Electronics and Communication Engineering Student at ITU
 
 
 #### 🧰 Languages and Tools:
-<p align="center">
+<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.prasm.io/wp-content/uploads/2021/04/avalanche-avax-logo.png" alt="Avalanche" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" height="40" style="vertical-align:top; margin:4px">
