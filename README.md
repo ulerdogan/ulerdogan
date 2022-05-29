@@ -15,7 +15,8 @@ Electronics and Communication Engineering Student at ITU
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Hardhat Ethereum" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="GoLang" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.jalalmhz.ir/wp-content/uploads/2021/05/Introduction-to-C-programming-language.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 
 </p>
