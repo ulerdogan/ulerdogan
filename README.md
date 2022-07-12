@@ -1,12 +1,19 @@
 ### hi there 👋
-✨ buidler, degen, instructor
+✨ buidler, degen, instructor <br/>
 🏫 engineering student in ITU <br/>
 🧑🏻‍💻 head-of-development in @EthyleneStudio <br/>
-🐝 ex-president of @ITUblockchain
+🐝 ex-president of @ITUblockchain <br/>
+
 <br/>
+
 📫 [how to reach me](mailto:0xulas0000.x@ud.me) <br/>
+
+<br/>
+
 🔭 working as smart contract developer. <br/>
 🌱 currently learning Golang. <br/>
+
+<br/>
 
 #### 🧰 Languages and Tools:
 <p align="left">
@@ -18,7 +25,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-</p>
+</p> 
+
+<br/>
 
 #### [0xulas.eth](https://ens.ls/0xulas.eth)
 
