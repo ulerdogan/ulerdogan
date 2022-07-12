@@ -3,17 +3,8 @@
 🏫 engineering student in ITU <br/>
 🧑🏻‍💻 head-of-development in @EthyleneStudio <br/>
 🐝 ex-president of @ITUblockchain <br/>
-
-<br/>
-
-📫 [how to reach me](mailto:0xulas0000.x@ud.me) <br/>
-
-<br/>
-
 🔭 working as smart contract developer. <br/>
 🌱 currently learning Golang. <br/>
-
-<br/>
 
 #### 🧰 Languages and Tools:
 <p align="left">
@@ -29,19 +20,5 @@
 
 <br/>
 
-#### [0xulas.eth](https://ens.ls/0xulas.eth)
-
-<!--
-**ulerdogan/ulerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking   for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [0xulas.eth](https://ens.ls/0xulas.eth) <br/>
+📫 [how to reach me](mailto:0xulas0000.x@ud.me) <br/>
