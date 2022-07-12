@@ -1,12 +1,12 @@
-### Hi there 👋
-Electronics and Communication Engineering Student at ITU
+### hi there 👋
+✨ buidler, degen, instructor
+🏫 engineering student in ITU <br/>
+🧑🏻‍💻 head-of-development in @EthyleneStudio <br/>
+🐝 ex-president of @ITUblockchain
 <br/>
-📫 [How to reach me](mailto:erdoganu19@itu.edu.tr)
-<br/>
-✨ I'm board member and ex-president of @ITUblockchain, Turkey's first university blockchain society <br/>
-🔭 I’m currently working as smart contract developer. <br/>
-🌱 I’m currently learning Golang. <br/>
-
+📫 [how to reach me](mailto:0xulas0000.x@ud.me) <br/>
+🔭 working as smart contract developer. <br/>
+🌱 currently learning Golang. <br/>
 
 #### 🧰 Languages and Tools:
 <p align="left">
@@ -18,8 +18,10 @@ Electronics and Communication Engineering Student at ITU
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-
 </p>
+
+#### [0xulas.eth](https://ens.ls/0xulas.eth)
+
 <!--
 **ulerdogan/ulerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
